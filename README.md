@@ -1,4 +1,4 @@
-About me:
+<h1>About me:</h2>
 
 How I got started in data analysis:
 
