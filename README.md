@@ -10,7 +10,7 @@ It is my belief based on personal experience that only from data can truth be di
 
 My passions related to data analytics:
 
-As a student of Psychology, a science just over a century old compared to its compatriots like Physics or Chemistry spanning millennia, I am blessed, fortunate, grateful, and lucky to live in the era of data science. Psychology will play an important role in writing artificial intelligence that will exist in unison with humans as opposed to the contrary. I hope a career in data analytics will eventually lead me to collaborate on projects that will contribute to future generations of AI that will exist harmoniously in a way that cont
+As a student of Psychology, a science just over a century old compared to its compatriots like Physics or Chemistry spanning millennia, I am blessed, fortunate, grateful, and lucky to live during the dawn of data science. Psychology will play an important role in writing artificial intelligence that will exist in unison with humans as opposed to the contrary. I hope a career in data analytics will eventually lead me to collaborate on projects that will contribute to a harmony between human and machines. 
 
 <!---
 vorsyybl/vorsyybl is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
