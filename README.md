@@ -2,7 +2,7 @@
 
 <h3>How I got started in data analysis:</h3>
 
-From a young age, I was attracted to scientific research and technology, which in the early 90s was just starting its reign. I studied Psychology at SUNY Plattsburgh from 2007-2012, and worked with databases from 2012 to 2019. At this point, I started expanding on my understanding of computer science through self teaching SQL, Excel, and Pythonn.
+<p>From a young age, I was attracted to scientific research and technology, which in the early 90s was just starting its reign. I studied Psychology at SUNY Plattsburgh from 2007-2012, and worked with databases from 2012 to 2019. At this point, I started expanding on my understanding of computer science through self teaching SQL, Excel, and Python.</p>
 
 <h3>What about data interests me the most:</h3>
 
