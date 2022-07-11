@@ -1,6 +1,6 @@
 
-
-<h1 style="background-color:DodgerBlue;">About me:</h2>
+<body style="background-color:#FF0000;">
+<h1>About me:</h2>
 
 <h3>How I got started in data analysis:</h3>
 
@@ -13,7 +13,7 @@ It is my belief based on personal experience that only from data can truth be di
 <h3>My passions related to data analytics:</h3>
 
 As a student of Psychology, a science just over a century old compared to its compatriots like Physics or Chemistry spanning millennia, I am blessed, fortunate, grateful, and lucky to live during the dawn of data science. Psychology will play an important role in writing artificial intelligence that will exist in unison with humans as opposed to the contrary. I hope a career in data analytics will eventually lead me to collaborate on projects that will contribute to a harmony between human and machines. 
-
+</body>
 <!---
 vorsyybl/vorsyybl is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
