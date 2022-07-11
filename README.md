@@ -1,4 +1,6 @@
-<h1>About me:</h2>
+
+
+<h1 style="background-color:DodgerBlue;">About me:</h2>
 
 <h3>How I got started in data analysis:</h3>
 
