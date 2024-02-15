@@ -8,7 +8,7 @@
 
 <h3>What about data interests me the most:</h3>
 
-It is my belief based on personal experience that only from data can truth be discovered. Forces like bias, current events, and the environment are few examples of many that can muddle reality. We are constantly being bombarded and engaged in digitally controlled, contrived environments with fixed rules defined by external entities. The road to truth stems from data and mathematical analysis of it, which is supported throughout history from millions of years ago to today. 
+It is my belief based on personal experience that only from data can truth be discovered. Forces like bias, current events, and the environment are few examples of many that can muddle reality. We are constantly being bombarded and engaged in digitally controlled, contrived environments with fixed rules defined by external entities. The road to truth stems from data and mathematical analysis of it, supported by history from millions of years ago to today. 
 
 <h3>My passions related to data analytics:</h3>
 
